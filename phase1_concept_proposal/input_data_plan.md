@@ -2,22 +2,23 @@
 
 ## What data will your program read?
 
-<!-- Describe the data fields for each route record -->
+File name = route_input.txt
+
+Route name (string)
+Route time (int)
+Route distance (int)
+
 
 ## File Format Example
 
-File name: `routes_input.txt`
+File name: routes_input.txt
 
 ```
-<!-- Paste a sample of what your input file will look like (no code logic, just data format) -->
+
 ```
 
 ## Data Fields
 
-<!-- List each field your input file contains, for example:
-- Route Number
-- Route Name
-- Departure Time
-- Travel Duration (minutes)
-- Distance (km)
--->
+route name
+route time in minutes 
+route distance in miles 
