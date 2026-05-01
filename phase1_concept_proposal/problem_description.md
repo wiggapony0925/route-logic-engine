@@ -2,12 +2,13 @@
 
 ## What problem does your project solve?
 
-<!-- Describe the problem your program addresses -->
+ The project will solve the issue of bus transportation efficiency. We will be able to determine what routes are efficient and what route    to take in order to get commuters to their location the fastest
 
 ## Why is it useful?
 
-<!-- Explain why solving this problem matters -->
+This is very useful because people have places to go and they have a specific time they need to be there. Our program allows us to figure out the shortest bus route so commuters can get to places on time. 
+
 
 ## What data will your program process?
 
-<!-- Describe the type of data (bus route records, times, distances, etc.) -->
+bus route, route time, and route distance
