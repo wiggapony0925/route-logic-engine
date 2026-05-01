@@ -1,0 +1,16 @@
+
+101 Times_Square 
+102 Yankee_Stadium 
+103 Coney_Island 
+104 LaGuardia_Airport 
+105 Central_Park 
+106 Brooklyn_Bridge 
+107 Flushing_Main_Street 
+108 Staten_Island_Ferry 
+109 Harlem_125th_Street 
+110 Barclays_Center 
+111 Grand_Central 
+112 Queens_Center_Mall 
+113 Bronx_Zoo 
+114 Union_Square 
+115 Rockaway_Beach
