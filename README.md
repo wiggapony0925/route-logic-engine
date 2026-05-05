@@ -3,7 +3,7 @@
 ## Project Overview
 
 A C++ data processing system designed for CSCI 271 to manage bus route data.  
-The application reads route records from a file, sorts them using a sorting algorithm (Bubble Sort or Selection Sort), performs linear search, and writes a summary report to an output file.
+The application reads route records from a file, sorts them using Bubble Sort, performs linear search, and writes a summary report to an output file.
 
 ---
 
@@ -66,6 +66,8 @@ BusRouteManager/
 ```
 
 ---
+## Flow chart and steps to creating our software 
+![flow chart](image.png)
 
 ## Submission Phases
 

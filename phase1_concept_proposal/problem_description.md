@@ -1,14 +1,14 @@
-# Phase 1 — Problem Description
+# Phase 1 - Problem Description
 
 ## What problem does your project solve?
 
- The project will solve the issue of bus transportation efficiency. We will be able to determine what routes are efficient and what route    to take in order to get commuters to their location the fastest
+Our project is a bus route manager. The main problem it solves is that bus route information can be hard to compare when it is just listed out normally. Our program will organize route information and make it easier to see which routes take less time.
 
 ## Why is it useful?
 
-This is very useful because people have places to go and they have a specific time they need to be there. Our program allows us to figure out the shortest bus route so commuters can get to places on time. 
+This is useful because people usually want to know which bus route will get them somewhere faster. Instead of checking every route by hand, the program can sort the routes by time and help find a route by its route number.
 
 
 ## What data will your program process?
 
-bus route, route time, and route distance
+The program will use route numbers, route names, departure times, travel times, and distances.

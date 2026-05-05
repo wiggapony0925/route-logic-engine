@@ -1,2 +1,14 @@
-Bus Route Manager — Summary Report
+Bus Route Manager - Summary Report
+
+Routes Sorted by Duration:
+310 CampusConnector 09:00 18 5.2
+101 DowntownLoop 08:00 25 8.5
+412 NorthsideLocal 09:15 32 11.4
+205 AirportExpress 08:30 40 22.0
+
+Shortest Route: 310 CampusConnector, 18 minutes
+Longest Route: 205 AirportExpress, 40 minutes
+
+Search Result for Route 101:
+101 DowntownLoop 08:00 25 8.5
 

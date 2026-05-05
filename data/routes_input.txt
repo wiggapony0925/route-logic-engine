@@ -1,2 +1,6 @@
 RouteNumber RouteName DepartureTime Duration_min Distance_km
+101 DowntownLoop 08:00 25 8.5
+205 AirportExpress 08:30 40 22.0
+310 CampusConnector 09:00 18 5.2
+412 NorthsideLocal 09:15 32 11.4
 
