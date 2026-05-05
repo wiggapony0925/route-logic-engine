@@ -14,16 +14,16 @@ File name: `routes_output.txt`
 Bus Route Manager - Summary Report
 
 Routes Sorted by Duration:
-310 CampusConnector 09:00 18 5.2
-101 DowntownLoop 08:00 25 8.5
-412 NorthsideLocal 09:15 32 11.4
-205 AirportExpress 08:30 40 22.0
+189 RooseveltIsland_Shuttle 20:10 15 3.2
+137 BatteryPark_Shuttle 11:30 16 3.5
+194 CivicCenter_Shuttle 21:00 16 3.6
+101 TimesSquare_Shuttle 05:30 18 4.2
 
-Shortest Route: 310 CampusConnector, 18 minutes
-Longest Route: 205 AirportExpress, 40 minutes
+Shortest Route: 189 RooseveltIsland_Shuttle, 15 minutes
+Longest Route: 129 RockawayBeach_Express, 64 minutes
 
 Search Result for Route 101:
-101 DowntownLoop 08:00 25 8.5
+101 TimesSquare_Shuttle 05:30 18 4.2
 ```
 
 ## Summary Statistics Included

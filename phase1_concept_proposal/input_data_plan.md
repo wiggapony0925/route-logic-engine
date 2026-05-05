@@ -17,10 +17,10 @@ File name: routes_input.txt
 
 ```
 RouteNumber RouteName DepartureTime Duration_min Distance_km
-101 DowntownLoop 08:00 25 8.5
-205 AirportExpress 08:30 40 22.0
-310 CampusConnector 09:00 18 5.2
-412 NorthsideLocal 09:15 32 11.4
+101 TimesSquare_Shuttle 05:30 18 4.2
+102 GrandCentral_Local 05:40 22 5.8
+103 UnionSquare_Loop 05:50 24 6.4
+104 WallStreet_Express 06:00 28 8.7
 ```
 
 ## Data Fields
